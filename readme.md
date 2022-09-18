@@ -1,4 +1,4 @@
-# Web3 Blog
+# Sample Hardhat Project
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
 
@@ -11,7 +11,6 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
-
 ### Packages Used
 - ethers: A complete Ethereum wallet implementation and utilities in JavaScript (and TypeScript).
 - hardhat: Hardhat is an Ethereum development environment for professionals. It facilitates performing frequent tasks, such as running tests, automatically checking code for mistakes or interacting with a smart contract.
