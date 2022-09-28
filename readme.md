@@ -26,3 +26,8 @@ npx hardhat run scripts/deploy.js
 - easymde: A drop-in JavaScript text area replacement for writing beautiful and understandable Markdown.
 - react-simplemde-editor:React component wrapper for EasyMDE (the most fresh SimpleMDE fork).
 - @emotion/css: The @emotion/css package is framework agnostic and the simplest way to use Emotion.
+
+
+<iframe src="https://runno.run/?editor=1&runtime=python&code=cHJpbnQoIkhlbGxvLCBXb3JsZCEiKQpuYW1lID0gaW5wdXQoIldoYXQncyB5b3VyIG5hbWU_ICIpCnByaW50KGYiRydkYXkge25hbWV9LCB3ZWxjb21lIHRvIFJ1bm5vLiIpCg.." crossorigin allow="cross-origin-isolated" width="640" height="320" frameBorder="0"></iframe>
+
+<iframe src="https://trinket.io/embed/python/8918c6c7d7" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
